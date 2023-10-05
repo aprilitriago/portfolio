@@ -8,7 +8,7 @@ In both advertising and data science, the goal is to turn abstract ideas into ta
 
 ## Portfolio index:
 
-1. **Comparative Analysis of Machine Learning Classifiers for Modeling Travel Mode Choice**
+### 1 **Comparative Analysis of Machine Learning Classifiers for Modeling Travel Mode Choice**
 
 **Brief Description:**
 
@@ -18,7 +18,7 @@ This project undertakes a comprehensive study to evaluate and compare various ma
 
 **Link to Project**:
 
-2. **Tanzania Water Pump Fault Prediction**
+### 2 **Tanzania Water Pump Fault Prediction**
 
 **Brief Description:** 
 
