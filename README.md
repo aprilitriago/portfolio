@@ -6,7 +6,7 @@ Hello, I'm April Itriago. For close to twenty years, I worked in creative advert
 
 In both advertising and data science, the goal is to turn abstract ideas into tangible outcomes. In advertising, this meant crafting impactful ads; in data science, it involves translating data into understandable visualizations and building machine learning models. At its core, I've always been in the business of interpreting and presenting information, whether through advertising campaigns or data analysis.
 
-## Portfolio index:
+## Portfolio index: 
 
 ### 1 **Comparative Analysis of Machine Learning Classifiers for Modeling Travel Mode Choice**
 
@@ -16,7 +16,7 @@ This project undertakes a comprehensive study to evaluate and compare various ma
 
 **Technologies Used**: Python
 
-**Link to Project**:
+**Link to Project**: https://github.com/aprilitriago/Portfolio/tree/6c2dbe23802e17b6fa5535360b8ab9110117eb80/mode_transportation
 
 ### 2 **Tanzania Water Pump Fault Prediction**
 
