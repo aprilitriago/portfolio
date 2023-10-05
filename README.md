@@ -1,7 +1,12 @@
 # Portfolio
 This is my portfolio, showcasing the projects I've undertaken.Dive in to explore my work
 
-## Index
+## Who I Am
+Hello, I'm April Itriago. For close to twenty years, I worked in creative advertising, developing and materializing ideas. Recently, I completed a master's in Data Science and now operate as a Data Scientist. While this might seem like a stark transition to some, for me, it's a logical extension of my career.
+
+In both advertising and data science, the goal is to turn abstract ideas into tangible outcomes. In advertising, this meant crafting impactful ads; in data science, it involves translating data into understandable visualizations and building machine learning models. At its core, I've always been in the business of interpreting and presenting information, whether through advertising campaigns or data analysis.
+
+## Portfolio index:
 
 1. **Comparative Analysis of Machine Learning Classifiers for Modeling Travel Mode Choice**
 
